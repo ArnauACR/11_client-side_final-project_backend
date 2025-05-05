@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Estudiar json-server",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Completar el projecte del costat del client",
+            "completed": true
+        }
+    ]
+}
