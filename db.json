@@ -1,14 +1,25 @@
 {
-    "posts" :[
+    "books" :[
         {
-            "id":1,
-            "title":"post 1",
-            "content": "content 1"
+            "id": 1,
+            "title": "The Book: On the Taboo Against Knowing Who You Are",
+            "author": "Alan Watts",
+            "year": 1966,
+            "status": "read"
         },
         {
             "id":2,
-            "title":"post 2",
-            "content": "content 2"
+            "title":"Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "year": "2005",
+            "status": "pending"
+        },
+        {
+            "id":3,
+            "title":"The Road",
+            "author": "Cormac McCarthy",
+            "year": "2006",
+            "status": "in progress"
         }
     ]
 }
